@@ -1,0 +1,47 @@
+body{
+    background-color: seagreen;
+    margin: 10%;
+}
+h1{
+    color: white;
+    font-family: italic, sans-serif;
+    text-align: center;
+}
+form{
+    display: grid;
+    height: 150px;
+    width: 40%;
+    padding-left: 30%;
+    caret-color: red;
+    }
+p{
+    text-align: center;
+    color: seashell;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
+::placeholder {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.z{
+    color: rgb(100, 218, 100);
+    background-color: white;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-color: white;
+    border-radius: 2%;
+}
+.x{
+    background-color: rgb(75, 155, 110);
+    border: seashell;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-radius: 2%;
+    border: solid 1px  white;
+}
+
+
+
